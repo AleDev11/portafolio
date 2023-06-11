@@ -4,7 +4,6 @@ import { SiMysql, SiPython, SiJavascript, SiTypescript, SiHtml5, SiTailwindcss, 
 import { TbBrandCSharp } from "react-icons/tb"
 import { BsFiletypeJava, BsUnity, BsFiletypeCss } from "react-icons/bs"
 import { FaReact, FaNodeJs, FaGitAlt } from "react-icons/fa"
-import { CgScrollV } from "react-icons/cg"
 
 import Skill from "@/components/Skill"
 
@@ -23,7 +22,7 @@ const Skills = () => {
                     </div>
                 </div>
                 <div className="flex flex-row items-center justify-center mt-10 animate-bounce">
-                    <CgScrollV size={50} className="text-white" />
+                    <img src="/img/icons/scroll.png" alt="Scroll" className="w-10 h-10 invert" />
                 </div>
             </div>
             <div className="flex flex-col items-center justify-center relative h-full">

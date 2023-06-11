@@ -10,15 +10,16 @@ const Contact = () => {
 
     const redirectToGithub = () => window.open('https://github.com/AleDev11')
     const redirectToLinkedin = () => window.open('https://www.linkedin.com/in/alejandro-font-muñiz/')
-    const copiarAlPortapapeles = () => {
-        navigator.clipboard.writeText('')
-        navigator.clipboard.writeText('fontalejandro0@gmail.com')
-        Swal.fire(
-            'Copying to clipboard',
-            "fontalejandro0@gmail.com",
-            'success'
-        )
-    }
+    const redirectToEmail = () => window.open('mailto:fontalejandro0@gmail.com')
+    // const copiarAlPortapapeles = () => {
+    //     navigator.clipboard.writeText('')
+    //     navigator.clipboard.writeText('fontalejandro0@gmail.com')
+    //     Swal.fire(
+    //         'Copying to clipboard',
+    //         "fontalejandro0@gmail.com",
+    //         'success'
+    //     )
+    // }
 
     return (
         <div className="flex flex-col items-center justify-center h-screen">
@@ -30,7 +31,7 @@ const Contact = () => {
                     </div>
                     <h1 className="text-xl font-bold text-white mt-2">GitHub</h1>
                 </button>
-                <button onClick={copiarAlPortapapeles} className="flex flex-col items-center justify-center cursor-pointer bg-zinc-900 rounded-2xl shadow-md shadow-current w-40 h-40 hover:shadow-lg hover:shadow-current transition hover:scale-105">
+                <button onClick={redirectToEmail} className="flex flex-col items-center justify-center cursor-pointer bg-zinc-900 rounded-2xl shadow-md shadow-current w-40 h-40 hover:shadow-lg hover:shadow-current transition hover:scale-105">
                     <div className="bg-center bg-cover border border-white p-4 rounded-2xl">
                         <MdAlternateEmail className="text-4xl text-white" />
                     </div>
