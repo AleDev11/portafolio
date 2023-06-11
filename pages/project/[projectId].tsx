@@ -26,7 +26,7 @@ const Project = () => {
             {!!data?.thumbnailUrl && (
                 <div className="flex flex-col w-10/12 h-full py-10">
                     <h1 className="text-2xl font-bold text-white mb-10 lg:text-4xl">Images</h1>
-                    <img src={data?.thumbnailUrl} alt={data?.title} className="w-full h-full object-cover" />
+                    <img src={data?.thumbnailUrl} alt={data?.title} className="w-full h-full object-cover border border-white rounded-md" />
                 </div>
             )}
             {!!data?.video && (

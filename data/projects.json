@@ -51,7 +51,7 @@
         "id": 8,
         "title": "Portafolio",
         "description": "The portfolio is the project that involves the creation of a personal portfolio using Next.js, Tailwind CSS and React. The portfolio is a visually appealing representation of professional skills and achievements, providing an effective way to showcase work to potential employers or clients. With these modern technologies, I achieved a fast, responsive and highly customizable website to highlight my professional profile online.",
-        "thumbnailUrl": "https://user-images.githubusercontent.com/91348432/243132009-5a7e46f4-dc7b-4d6f-b92f-407a9427509f.png",
+        "thumbnailUrl": "https://github.com/AleDev11/portafolio/blob/main/public/img/image.png?raw=true",
         "link_demo": "https://alefont.dev",
         "github": "https://github.com/AleDev11/portafolio"
     }
