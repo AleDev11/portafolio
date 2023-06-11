@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Morse Translator",
+        "description": "Morse Translator is a project that focuses on the development of a Python desktop application that allows translating text to Morse code and vice versa. With an intuitive and easy-to-use interface, users will be able to perform fast and accurate translations. This application offers a useful and practical tool for those interested in Morse code and its application in communication.",
+        "thumbnailUrl": "https://user-images.githubusercontent.com/91348432/232087211-9b6d0910-ba86-4127-ad6a-3b15e5cecb90.png",
+        "github": "https://github.com/AleDev11/MorseTranslator"
+    },
+    {
+        "id": 2,
+        "title": "ContactManager",
+        "description": "ContactManager is a project that involves the development of a contact manager desktop application in Python, using a SQL database to store the information. With an intuitive interface, users will be able to easily manage and organize their contacts, allowing them to keep a complete and accessible record of their personal or professional connections and relationships.",
+        "thumbnailUrl": "https://user-images.githubusercontent.com/91348432/228063440-a64f40aa-c55c-41ed-9820-f4df8244a59e.png",
+        "github": "https://github.com/AleDev11/ContactManager"
+    },
+    {
+        "id": 3,
+        "title": "Password Generator",
+        "description": "Password Generator is a project that involves the development of a Python desktop application that generates secure and customizable passwords. The application provides users with a convenient way to obtain strong passwords to protect their accounts and personal data. With an intuitive interface and customization options, users will be able to easily generate strong passwords that meet current security standards.",
+        "thumbnailUrl": "https://user-images.githubusercontent.com/91348432/225737817-0d3e4ad7-1aef-4334-8e30-218e60a7950a.png",
+        "github": "https://github.com/AleDev11/Password-Generator"
+    },
+    {
+        "id": 4,
+        "title": "CreateXML",
+        "description": "CreateXML is a project that involves the development of a Java console application to create XML databases of a school. Users will be able to define the database structure, establish relationships and assign values to the corresponding fields. The application will provide an efficient and flexible way to store and manage school data in XML format.",
+        "github": "https://github.com/AleDev11/CreateXML"
+    },
+    {
+        "id": 5,
+        "title": "JavaSocketConnection",
+        "description": "JavaSocketConnection is a project that involves the development of a Java console application that provides a secure and encrypted chat using sockets. Users will be able to send and receive messages confidentially and in real time. With proper implementation of encryption algorithms and security mechanisms, the application will provide a secure chat platform for private and reliable communication.",
+        "github": "https://github.com/AleDev11/JavaSocketConnection"
+    },
+    {
+        "id": 6,
+        "title": "View PokeAPI",
+        "description": "View PokeAPI is a project that focuses on developing a Python desktop application that allows users to interact with the Pokémon API. With an intuitive graphical interface, users will be able to explore detailed information about Pokémon and enjoy a fun and interactive experience. The application will provide a convenient way to access Pokémon data and enjoy the Pokémon world directly from the desktop.",
+        "thumbnailUrl": "https://cdn.discordapp.com/attachments/1034929433418682388/1076167786147106877/image.png",
+        "github": "https://github.com/AleDev11/View_pokeAPI"
+    },
+    {
+        "id": 7,
+        "title": "ImperioHub",
+        "description": "ImperioHub is a project that aims to create a Netflix replica using Next.js, MongoDB, Prisma, TypeScript and other relevant technologies. With this web application, users will be able to browse a catalog of movies and series, view details, play content and enjoy a Netflix-like streaming experience.",
+        "thumbnailUrl": "https://user-images.githubusercontent.com/91348432/243132009-5a7e46f4-dc7b-4d6f-b92f-407a9427509f.png",
+        "link_demo": "https://imperio-hub.vercel.app/auth",
+        "github": "https://github.com/AleDev11/imperio_hub"
+    },
+    {
+        "id": 8,
+        "title": "Portafolio",
+        "description": "The portfolio is the project that involves the creation of a personal portfolio using Next.js, Tailwind CSS and React. The portfolio is a visually appealing representation of professional skills and achievements, providing an effective way to showcase work to potential employers or clients. With these modern technologies, I achieved a fast, responsive and highly customizable website to highlight my professional profile online.",
+        "thumbnailUrl": "https://user-images.githubusercontent.com/91348432/243132009-5a7e46f4-dc7b-4d6f-b92f-407a9427509f.png",
+        "link_demo": "https://alefont.dev",
+        "github": "https://github.com/AleDev11/portafolio"
+    }
+]
