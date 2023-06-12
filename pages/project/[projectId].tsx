@@ -21,7 +21,7 @@ const Project = () => {
             <h1 className="text-4xl font-bold text-white mb-10 lg:text-6xl">{data?.title}</h1>
             <div className="flex flex-col w-10/12 h-full">
                 <h1 className="text-2xl font-bold text-white mb-10 lg:text-4xl">Description</h1>
-                <p className="text-white text-start text-2xl ">{data?.description}</p>
+                <p className="text-white text-start text-xl lg:text-2xl">{data?.description}</p>
             </div>
             {!!data?.thumbnailUrl && (
                 <div className="flex flex-col w-10/12 h-full py-10">
